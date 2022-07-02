@@ -98,33 +98,7 @@ header{
 }
 
 
-.algo1, .algo2{
-    border-radius: 10px;
-    height: 40px;
-    width: 80px;;
-    margin-left: 530px;
-    position: absolute;
-   
-}
 
-.algo1{
-    background-color: rgb(14, 89, 89);
-}
-
-.algo2{
-    background-color: rgb(139, 65, 65);
-    transition: all 0.8s;
-}
-
-.algo2:hover {
-    transform: translate(20px, 20px);
-    background-color: transparent;
-}
-
-.animacionalgo1{
-    padding-top: 9px;
-    padding-left: 4px;
-}
 
 .paragraph {
     font-family: 'Nunito', sans-serif;
